@@ -33,14 +33,14 @@
 - Aimed to provide a smooth and functional networking layer with Retrofit for reliable data fetching.
 
 ## Time Spent on the Project
-- Approximately 40 hours spread over two weeks.
+- Approximately 6 hours spread over one week.
 
 ## Trade-offs & Future Improvements
 - **Trade-offs**: Prioritized core functionality like fetching data and displaying it with images over additional features such as advanced user interactions or animations.
 - **With More Time**: Would implement better error handling, caching strategies for network data, and more interactive elements like animations. Also, unit and integration testing would be expanded.
 
 ## Weakest Part of the Project
-- Error handling and resilience against network failures could be improved. The current setup lacks comprehensive user feedback mechanisms for different network and data fetching states.
+- Error handling and resilience against network failures could be improved. The current setup lacks comprehensive user feedback mechanisms for different network and data-fetching states.
 
 ## External Code and Dependencies
 - Used **Glide** and **Coil** for image loading, licensed under their respective licenses.
