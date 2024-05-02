@@ -1,8 +1,5 @@
 # Employee Directory App
 
-![image](https://github.com/Rohith0007/EmployeeDirectory/assets/50866037/63c574fc-9cd1-45ef-ae80-7582e17d1089)
-
-
 ## Build Tools & Versions Used
 - **Android Studio Arctic Fox** | 2020.3.1 Patch 2
 - **Kotlin Version**: 1.5.21
@@ -51,3 +48,5 @@
 
 ## Additional Information
 - This project was a learning endeavor to explore advanced Android development concepts in a practical application. Feedback and contributions are welcome to improve the app further.
+
+  ![image](https://github.com/Rohith0007/EmployeeDirectory/assets/50866037/63c574fc-9cd1-45ef-ae80-7582e17d1089)
